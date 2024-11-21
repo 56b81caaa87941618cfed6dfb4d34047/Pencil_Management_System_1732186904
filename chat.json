@@ -65,5 +65,13 @@
         "source": "web_client",
         "content": "what are the components of this project",
         "metadata": {}
+    },
+    {
+        "id": "3e404e7c-6b0e-4d41-a3b6-28c946c2b878",
+        "timestamp": "2024-11-21T11:06:30.053162Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The current components in your project are:\n1. Footer\n2. Hero\n3. Header\n\nIs there anything specific you would like to edit or add?",
+        "metadata": {}
     }
 ]
