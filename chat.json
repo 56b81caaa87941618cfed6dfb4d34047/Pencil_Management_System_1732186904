@@ -57,5 +57,13 @@
         "source": "base_assistant",
         "content": "Great! I've edited the current component to interact with the smart contract at 0x1F98431c8aD98523631AE4a59f267346ea31F984 on the Ethereum network. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "3a8a1abe-fc75-40fe-8273-5570787cc877",
+        "timestamp": "2024-11-21T11:06:26.965142Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what are the components of this project",
+        "metadata": {}
     }
 ]
