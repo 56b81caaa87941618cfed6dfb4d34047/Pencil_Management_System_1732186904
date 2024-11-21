@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "PencilPro",
+        "HERO_HEADING_TEXT": "Unlock Your Creativity with the Perfect Pencil",
+        "HERO_SUBHEADING_TEXT": "Discover, compare, and shop for the world's finest writing and drawing instruments",
+        "FOOTER_TEXT": "\u00a9 2023 PencilPro. Sharpening minds and ideas, one pencil at a time."
+    }
+}
