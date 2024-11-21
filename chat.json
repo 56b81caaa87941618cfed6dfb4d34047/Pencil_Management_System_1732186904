@@ -91,5 +91,13 @@
         "source": "base_assistant",
         "content": "Please unselect the current component to view the entire list of components in your project.",
         "metadata": {}
+    },
+    {
+        "id": "976f89d9-67bb-49a5-b820-fdbb9b5d474b",
+        "timestamp": "2024-11-21T11:36:00.210058Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "generate a frontend to interact with the smart contract with address 0x1F98431c8aD98523631AE4a59f267346ea31F984 on ETH",
+        "metadata": {}
     }
 ]
